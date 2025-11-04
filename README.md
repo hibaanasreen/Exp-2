@@ -4,13 +4,13 @@
 To design and develop UML diagrams for a Library Management System that manages book records, member information, and borrowing/return transactions efficiently.
 
 # SRS (Procedure):
-1.Identify main actors: Librarian, Member (Student/Staff), and System Database.
+1.Identify the objectives and scope of the system.
 
-2.Define core functions: issue book, return book, search book, and manage members.
+2.Collect and analyze user and system requirements.
 
-3.Specify system requirements (functional and non-functional).
+3.Specify functional and non-functional requirements.
 
-4.Draw UML diagrams to represent system structure and interactions.
+4.Prepare, review, and finalize the SRS document
 # DIAGRAMS:
 ```python
 Usecase Diagram
