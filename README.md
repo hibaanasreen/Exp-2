@@ -16,7 +16,8 @@ To design and develop UML diagrams for a Library Management System that manages 
 Usecase Diagram
 ```
 
-<img width="920" height="890" alt="image" src="https://github.com/user-attachments/assets/48b1802b-de98-40b6-a995-07ba70ff1084" />
+<img width="946" height="885" alt="Screenshot 2025-11-04 111310" src="https://github.com/user-attachments/assets/2a6247b8-5803-4020-bce8-964f1112d0aa" />
+
 
 ```python
 Class Diagram
